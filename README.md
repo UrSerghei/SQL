@@ -30,7 +30,7 @@ To get started with the SQL projects:
 cd SQL
 ```
 ## Projects Overview
-### Project 1: Data Wrangling Analysis & AB Testing
+### Project 1: Data Wrangling, Analysis & AB Testing
 Description: The overall goal was to analyse the results of A/B testing for a hypothetical online shopping company.
 
 
