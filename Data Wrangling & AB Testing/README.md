@@ -1,4 +1,4 @@
-# Data Wrangling Analysis & A/B Testing 
+# Data Wrangling, Analysis & A/B Testing 
 ### Description:
 The objective was to analyse the results of A/B testing for a hypothetical online shopping company.
 
